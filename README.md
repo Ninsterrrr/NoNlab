@@ -4,7 +4,7 @@ Unity用插件
 (Texture Batch Compression Tool)
 
 一个为 Unity 开发者设计的极致轻量化、高效贴图批量处理工具。
-通过拖拽即可快速批量修改贴图尺寸、压缩格式，减轻负载。
+通过拖拽即可快速批量修改贴图尺寸、压缩格式，减轻负载。毕竟高精度贴图超级吃配置。
 建议用于VRCHAT改模（我写它的本意）
 
 - 当前版本：V1.01
@@ -28,7 +28,10 @@ Unity用插件
 ### 下载
 请在下面提供的链接下载 .unitypackage 文件：
 https://github.com/Ninsterrrr/NoNlab/blob/main/
-
+或者网盘↓（百度网盘）
+https://pan.baidu.com/s/1bqVzgMVdEK3fAIyAdtZ8PQ?pwd=NING 
+演示视频↓（哔哩哔哩bilibili）
+https://b23.tv/eMJXudY
 
 
 ### 安装
@@ -84,9 +87,8 @@ A: 可以。在未关闭窗口的情况下，点击底部的“撤销”按钮�
 - ByNoNstudio
 - GitHub：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
 - bug反馈：3864766192@qq.com
-请不要骂我（QAQ）纯自学非专业，
-传上来只是希望帮到需要的人
-但是有bug可以告诉我
+
+请不要骂我（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
 ---
 
 ## 许可证 (License)
