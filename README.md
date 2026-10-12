@@ -26,11 +26,10 @@ Unity用插件
 ## 下载与安装 (Download & Installation)
 
 ### 下载与演示视频网址
-请在下面提供的链接下载 .unitypackage 文件：
-https://github.com/Ninsterrrr/NoNlab/blob/main/
-或者网盘↓（百度网盘）
+- 请在下面提供的链接下载 .unitypackage 文件：https://github.com/Ninsterrrr/NoNlab/blob/main/
+- 或者网盘↓（百度网盘）
 https://pan.baidu.com/s/1bqVzgMVdEK3fAIyAdtZ8PQ?pwd=NING 
-演示视频↓（哔哩哔哩bilibili）
+- 演示视频↓（哔哩哔哩bilibili）
 https://b23.tv/eMJXudY
 
 
@@ -88,7 +87,7 @@ A: 可以。在未关闭窗口的情况下，点击底部的“撤销”按钮�
 - GitHub：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
 - 可以通过https://b23.tv/eMJXudY在哔哩哔哩私信联系我
 
-请不要骂我！（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
+- 请不要骂我！（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
 ---
 
 ## 许可证 (License)
