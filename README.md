@@ -8,8 +8,8 @@ Unity用插件
 建议用于VRCHAT改模（我写它的本意）
 
 - 当前版本：V1.01
-- By:Ninsterrrr-NoNlab
-
+- 总大小：约10Kb
+- By:Ninster-NoNlab
 ---
 
 ## 功能特性 (Features)
@@ -25,7 +25,7 @@ Unity用插件
 
 ## 下载与安装 (Download & Installation)
 
-### 下载
+### 下载与演示视频网址
 请在下面提供的链接下载 .unitypackage 文件：
 https://github.com/Ninsterrrr/NoNlab/blob/main/
 或者网盘↓（百度网盘）
@@ -34,7 +34,7 @@ https://pan.baidu.com/s/1bqVzgMVdEK3fAIyAdtZ8PQ?pwd=NING 
 https://b23.tv/eMJXudY
 
 
-### 安装
+### 安方式装
 1. 在 Unity 中打开你的项目。
 2. 选择刚刚下载的 .unitypackage 文件。
 3. 导入完成后，在顶部菜单栏找到
@@ -86,9 +86,9 @@ A: 可以。在未关闭窗口的情况下，点击底部的“撤销”按钮�
 
 - ByNoNstudio
 - GitHub：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
-- bug反馈：3864766192@qq.com
+- 可以通过https://b23.tv/eMJXudY在哔哩哔哩私信联系我
 
-请不要骂我（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
+请不要骂我！（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
 ---
 
 ## 许可证 (License)
