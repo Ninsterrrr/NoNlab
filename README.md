@@ -5,7 +5,7 @@ Unity用插件
 
 一个为 Unity 开发者设计的极致轻量化、高效贴图批量处理工具。
 通过拖拽即可快速批量修改贴图尺寸、压缩格式，减轻负载。
-建议用于VRCHAT改模
+建议用于VRCHAT改模（我写它的本意）
 
 - 当前版本：V1.01
 - By:Ninsterrrr-NoNlab
@@ -27,6 +27,7 @@ Unity用插件
 
 ### 下载
 请在下面提供的链接下载 .unitypackage 文件：
+https://github.com/Ninsterrrr/NoNlab/blob/main/
 
 
 
