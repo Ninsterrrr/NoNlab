@@ -1,6 +1,6 @@
 # NoNlab
 Unity用插件
-# NoNlab - 贴图批量压缩模块 
+# NoNlab - 贴图批量处理模块 
 (Texture Batch Compression Tool)
 
 一个为 Unity 开发者设计的极致轻量化、高效贴图批量处理工具。
@@ -87,9 +87,16 @@ A: 可以。在未关闭窗口的情况下，点击底部的“撤销”按钮�
 - GitHub：[https://github.com/Ninsterrrr/NoNlab](https://github.com/Ninsterrrr/NoNlab)
 - 可以通过https://b23.tv/eMJXudY在哔哩哔哩私信联系我
 
-- 请不要骂我！（QAQ）纯自学非专业，传上来只是希望帮到需要的人。但是有bug可以告诉我！
 ---
 
 ## 许可证 (License)
 
 本项目采用 MIT 许可证授权。您可以自由使用、修改和分发，但请保留原作者信息。
+
+## 更新日志
+- 26/11/5-v2 更新：
+五语切换：中文 / English / Русский / 日本語 / 한국어，通过下拉切换，EditorPrefs 记忆，重开保持。
+清空：一键清空当前收集结果，无需关窗重开即可拖入下一批。
+贴图雷达：每张贴图后带定位按钮，直接在 Project 窗口高亮指引到该资产；被材质引用时在 Console 打印引用属性名。可勾选开关。
+直视模式：勾选后每行直接显示贴图缩略图，AssetPreview 异步生成，未就绪时回退 mini thumbnail / 内置图标。默认关闭。
+量高级设置：对当前勾选的贴图批量编辑导入器高级字段——贴图类型、sRGB、Alpha 透明、Mipmap、过滤模式、环绕模式、各向异性、NPOT 缩放、可读、最大尺寸、压缩档位、Crunch 压缩、压缩质量；每个字段带独立勾选框，只写入被勾选的字段，保留字段级选择权。
